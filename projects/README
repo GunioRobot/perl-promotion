@@ -22,7 +22,7 @@ Rakudo
   file: rakudo-logo.png
 
 Moose:
-  text: Post-modern object system for Perl. 
+  text: Post-modern object system for Perl.
   url: http://www.iinteractive.com/moose/
   src: http://static.lulu.com/product/item/moose/5187831/thumbnail/320
   file: moose.jpg
@@ -34,7 +34,7 @@ Catalyst:
   file: catalyst_130pix.gif
 
 Padre:
-  text: The Perl IDE. 
+  text: The Perl IDE.
   url: http://padre.perlide.org/
   src: http://padre.perlide.org/static/logo.png
   file: padre-logo.png
@@ -52,7 +52,7 @@ Mojolicious:
   file: mojolicious.png
 
 Perl 5
-  text: 
+  text:
 
 DBIx::Class
 
